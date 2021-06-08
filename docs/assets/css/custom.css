@@ -1,6 +1,6 @@
 #bgvid {
 position: sticky;
-
+z-index: 0;
 }
 
 @media(min-aspect-ratio: 16/9) {
@@ -18,3 +18,5 @@ position: sticky;
     }
     
     }
+
+   
